@@ -168,8 +168,8 @@ body{
 #pic img{
     position:absolute;
     top:86px;
-    right:32px;
-    width:594px;
+    right:30px;
+    width:450px;
     height:592px;
 }
 
@@ -192,7 +192,7 @@ body{
     margin:4px;
     border:2px solid cyan;
     color:black;
-    font-family:'Righteous, cursive';
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color:cyan;
     cursor:pointer;
     z-index:4;
